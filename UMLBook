@@ -1,0 +1,22 @@
+-------------------------------
+            Book
+-------------------------------
+- bookId: String
+- title: String
+- price: double
+- discount: double
+-------------------------------
++ Book(bookId: String, title: String)
++ Book(bookId: String, title: String, price: double, discount: double)
++ getBookId(): String
++ setBookId(bookId: String): void
++ getTitle(): String
++ setTitle(title: String): void
++ getPrice(): double
++ setPrice(price: double): void
++ getDiscount(): double
++ setDiscount(discount: double): void
++ getSalePrice(): double
++ displayInfo(): void
++ main(args: String[]): void
+-------------------------------
