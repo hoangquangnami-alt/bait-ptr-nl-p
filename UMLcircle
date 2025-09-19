@@ -1,0 +1,14 @@
++-------------------------+
+|         Circle          |
++-------------------------+
+| - radius: double        |
++-------------------------+
+| + Circle()              |
+| + Circle(radius: double)|
+| + getRadius(): double   |
+| + setRadius(r: double): void |
+| + input(): void         |
+| + output(): void        |
+| + getArea(): double     |
+| + getPerimeter(): double|
++-------------------------+
