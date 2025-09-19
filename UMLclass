@@ -1,0 +1,22 @@
+-------------------------------
+            Student
+-------------------------------
+- studentId: String
+- name: String
+- birthYear: int
+- address: String
+-------------------------------
++ Student(studentId: String, name: String)
++ Student(studentId: String, name: String, birthYear: int, address: String)
++ getStudentId(): String
++ setStudentId(studentId: String): void
++ getName(): String
++ setName(name: String): void
++ getBirthYear(): int
++ setBirthYear(birthYear: int): void
++ getAddress(): String
++ setAddress(address: String): void
++ getAge(): int
++ displayInfo(): void
++ main(args: String[]): void
+-------------------------------
