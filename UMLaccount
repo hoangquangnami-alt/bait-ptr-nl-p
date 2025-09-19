@@ -1,0 +1,13 @@
++----------------------+
+|       Account        |
++----------------------+
+| - accountId: String  |
+| - balance: double    |
++----------------------+
+| + Account(accountId: String, balance: double) |
+| + getAccountId(): String                     |
+| + setAccountId(accountId: String): void      |
+| + getBalance(): double                       |
+| + setBalance(balance: double): void          |
+| + displayInfo(): void                        |
++----------------------+
